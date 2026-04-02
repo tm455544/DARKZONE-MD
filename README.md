@@ -2,7 +2,7 @@
 
 <div align="center">
   <a>
-    <img src="https://camo.githubusercontent.com/e1e43dbd7ca48f55a44a139eadb3a2da89f529d8dfd2d711cfbaa0781f6c9ea9/68747470733a2f2f66696c65732e636174626f782e6d6f652f6a7164376a782e6a7067" alt="glow" border="0">
+    <img src="[![file-00000000966c71faa480a00c1c95e42b.png](https://i.postimg.cc/HL8P529p/file-00000000966c71faa480a00c1c95e42b.png)](https://postimg.cc/bG8Tf15M)" alt="glow" border="0">
   </a>
 </div>
 
