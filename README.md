@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1 style="background-color:#4B0082; color:white; display:inline-block; padding:20px 40px; border-radius:10px; font-size:48px; font-family:Fira+Code; text-align:center;">
-    DARKZONE-MD WHATSAPP BOT
+    🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩 WHATSAPP BOT
   </h1>
 </div>
 
@@ -50,7 +50,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=⚡+ERFAN+MD+WHATSAPP+BOT;🔥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;💻+DEVELOPED+BY+ERFAN+AHMAD;🚀+ULTRA+FAST+PERFORMANCE;🌈+SECURE+🔒+STABLE+⚡+PREMIUM" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=⚡+🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩+WHATSAPP+BOT;🔥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;💻+DEVELOPED+BY+TALIB+AHMAD;🚀+ULTRA+FAST+PERFORMANCE;🌈+SECURE+🔒+STABLE+⚡+PREMIUM" alt="Typing Animation">
 </h1>
 
 ---
@@ -62,7 +62,7 @@
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
 <a href="https://github.com/ERFAN-Md/DARKZONE-MD/fork">
-  <img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+  <img title="🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
