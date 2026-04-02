@@ -13,21 +13,21 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "",  // Your bot's session ID (keep it secure)
     PREFIX: getConfig("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
     CHATBOT: getConfig("CHATBOT") || "on", // on/off chat bot 
-    BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩",  // Bot's display name
+    BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄𝐌𝐃🚩",  // Bot's display name
     MODE: getConfig("MODE") || process.env.MODE || "public",        // Bot mode: public/private/group/inbox
-    REPO: process.env.REPO || "https://github.com/ERFAN-Md/DARKZONE-MD/forkhttps://github.com/ERFAN-Md/DARKZONE-MD",  // Bot's GitHub repo
+    REPO: process.env.REPO || "https://github.com/tm455544/forkhttps://github.com/tm455544",  // Bot's GitHub repo
     BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",  // Bot's BAILEYS
 
     // ===== OWNER & DEVELOPER SETTINGS =====
     OWNER_NUMBER: process.env.OWNER_NUMBER || "923431798985",  // Owner's WhatsApp number
-    OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩",           // Owner's name
+    OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄𝐌𝐃🚩",           // Owner's name
     DEV: process.env.DEV || "923431798985",                     // Developer's contact number
     DEVELOPER_NUMBER: '923431798985@s.whatsapp.net',            // Developer's WhatsApp ID
 
     // ===== AUTO-RESPONSE SETTINGS =====
     AUTO_REPLY: process.env.AUTO_REPLY || "false",              // Enable/disable auto-reply
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",// Reply to status updates?
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩 VIEWED YOUR STATUS 🤖*",  // Status reply message
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄𝐌𝐃🚩 VIEWED YOUR STATUS 🤖*",  // Status reply message
     READ_MESSAGE: process.env.READ_MESSAGE || "false",          // Mark messages as read automatically?
     REJECT_MSG: process.env.REJECT_MSG || "*📞 THIS PERSON NOT ALLOWED CALL*",
     // ===== REACTION & STICKER SETTINGS =====
@@ -37,7 +37,7 @@ module.exports = {
     OWNER_REACT: process.env.OWNER_REACT || "false",              // Auto-react to messages?
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",          // Use custom emoji reactions?
     CUSTOM_REACT_EMOJIS: getConfig("CUSTOM_REACT_EMOJIS") || process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",  // set custom reacts
-    STICKER_NAME: process.env.STICKER_NAME || "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩",     // Sticker pack name
+    STICKER_NAME: process.env.STICKER_NAME || "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄𝐌𝐃🚩",     // Sticker pack name
     AUTO_STICKER: process.env.AUTO_STICKER || "false",          // Auto-send stickers?
     // ===== MEDIA & AUTOMATION =====
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",      // Auto-record voice notes?
