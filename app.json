@@ -1,8 +1,8 @@
  {
-  "name": "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩",
-  "description": "Javascript WhatsApp bot made by 🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩",
-  "logo": "https://i.postimg.cc/B6KvFxRH/20260402-171401.jpg",
-  "keywords": ["🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩"],
+  "name": "🍷𓆩𝐓𝐚𝐥𝐢𝐛​᭄𝐌𝐃🚩",
+  "description": "Javascript WhatsApp bot made by 🍷𓆩𝐓𝐚𝐥𝐢𝐛​᭄𝐌𝐃🚩",
+  "logo": "https://i.postimg.cc/HL8P529p/file-00000000966c71faa480a00c1c95e42b.png",
+  "keywords": ["🍷𓆩𝐓𝐚𝐥𝐢𝐛​᭄𝐌𝐃🚩"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -87,7 +87,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩*"
+      "value": "*SEEN YOUR STATUS BY 🍷𓆩𝐓𝐚𝐥𝐢𝐛​᭄𝐌𝐃🚩*"
     }, 
     
     "OWNER_NAME": {
@@ -105,7 +105,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩"
+      "value": "🍷𓆩𝐓𝐚𝐥𝐢𝐛᭄𝐌𝐃🚩"
     }, 
 
     "ANTI_LINK": {
@@ -141,7 +141,7 @@
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER 🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩*"
+      "value": "*CREATER 🍷𓆩𝐓𝐚𝐥𝐢𝐛᭄𝐌𝐃🚩*"
     },
 
     "DELETE_LINKS": {
