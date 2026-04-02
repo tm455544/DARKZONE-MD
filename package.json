@@ -1,7 +1,7 @@
 {
-  "name": "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩",
+  "name": "🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄𝐌𝐃🚩",
   "version": "7.0.0",
-  "description": "A WhaTsApp Bot Created By 🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩 ",
+  "description": "A WhaTsApp Bot Created By 🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄𝐌𝐃🚩 ",
   "main": "index.js",
   "engines": {
     "node": ">=20.x",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name 🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩",
     "stop": "pm2 stop DARKZONE-MD",
-    "restart": "pm2 restart 🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄🚩"
+    "restart": "pm2 restart 🍷𓆩𝐓𝐚𝐥𝐢𝐛 ​᭄𝐌𝐃🚩"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",
